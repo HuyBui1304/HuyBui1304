@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./avatar.jpg" width="150" style="border-radius:50%"/>
-
 # Bùi Minh Huy
 
 **Data Analyst** · Ho Chi Minh City, Vietnam
