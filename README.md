@@ -129,6 +129,5 @@ Computer vision model detecting helmet compliance among electricity field worker
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=HuyBui1304&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="160" src="https://streak-stats.demolab.com?user=HuyBui1304&theme=github-dark-blue&hide_border=true"/>
 
 </div>
